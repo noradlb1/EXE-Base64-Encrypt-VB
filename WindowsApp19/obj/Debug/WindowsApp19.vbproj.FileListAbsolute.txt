@@ -1,0 +1,11 @@
+C:\Users\MONSTERMC\source\repos\WindowsApp19\WindowsApp19\bin\Debug\WindowsApp19.exe.config
+C:\Users\MONSTERMC\source\repos\WindowsApp19\WindowsApp19\bin\Debug\WindowsApp19.exe
+C:\Users\MONSTERMC\source\repos\WindowsApp19\WindowsApp19\bin\Debug\WindowsApp19.pdb
+C:\Users\MONSTERMC\source\repos\WindowsApp19\WindowsApp19\bin\Debug\WindowsApp19.xml
+C:\Users\MONSTERMC\source\repos\WindowsApp19\WindowsApp19\obj\Debug\WindowsApp19.Form1.resources
+C:\Users\MONSTERMC\source\repos\WindowsApp19\WindowsApp19\obj\Debug\WindowsApp19.Resources.resources
+C:\Users\MONSTERMC\source\repos\WindowsApp19\WindowsApp19\obj\Debug\WindowsApp19.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\source\repos\WindowsApp19\WindowsApp19\obj\Debug\WindowsApp19.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\source\repos\WindowsApp19\WindowsApp19\obj\Debug\WindowsApp19.exe
+C:\Users\MONSTERMC\source\repos\WindowsApp19\WindowsApp19\obj\Debug\WindowsApp19.xml
+C:\Users\MONSTERMC\source\repos\WindowsApp19\WindowsApp19\obj\Debug\WindowsApp19.pdb
